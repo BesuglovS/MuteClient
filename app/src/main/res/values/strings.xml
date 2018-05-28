@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MuteClient</string>
+    <string-array name="commands">
+        <item>Set</item>
+        <item>Support</item>
+        <item>Support OFF</item>
+    </string-array>
+</resources>
